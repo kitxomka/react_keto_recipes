@@ -1,0 +1,10 @@
+.category{
+    text-decoration: none;
+    text-align: center;
+}
+
+.category div{
+    color: #999;
+    font-size: 13px;
+    font-weight: bolder;
+}
