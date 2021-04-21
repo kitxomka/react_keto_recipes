@@ -1,36 +1,37 @@
-{"Categories" : [
+{
+    "categories" : [
     {
         "id": 1,
         "category": "breakfast", 
-        "img_src": "//cdn.ruled.me/wp-content/themes/genesis-child/sections/custom-pages/keto-recipes-img/category_breakfast.png", 
+        "image": "http://cdn.ruled.me/wp-content/themes/genesis-child/sections/custom-pages/keto-recipes-img/category_breakfast.png",
         "title": "Breakfast",
         "text": "Even though eggs are a common keto staple for the first meal, they don't have to be your only choice!"
     },
     {
         "id": 2,
         "category": "lunch", 
-        "img_src": "//cdn.ruled.me/wp-content/themes/genesis-child/sections/custom-pages/keto-recipes-img/category_lunch.png", 
+        "image": "//cdn.ruled.me/wp-content/themes/genesis-child/sections/custom-pages/keto-recipes-img/category_lunch.png", 
         "title": "Lunch",
         "text": "From heavy to light, here's some tasty lunch options that will hit the spot for even the pickiest eaters." 
     },
     {
         "id": 3,
         "category": "dinner", 
-        "img_src": "//cdn.ruled.me/wp-content/themes/genesis-child/sections/custom-pages/keto-recipes-img/category_dinner.png", 
+        "image": "//cdn.ruled.me/wp-content/themes/genesis-child/sections/custom-pages/keto-recipes-img/category_dinner.png", 
         "title": "Dinner",
         "text": "Whether you're in a pinch or want to start early, you'll find meals that the whole family will enjoy."
     },
     {
         "id": 4,
         "category": "desserts", 
-        "img_src": "//cdn.ruled.me/wp-content/themes/genesis-child/sections/custom-pages/keto-recipes-img/category_desserts.png", 
+        "image": "//cdn.ruled.me/wp-content/themes/genesis-child/sections/custom-pages/keto-recipes-img/category_desserts.png", 
         "title": "Desserts",
         "text": "Stop the cravings in their tracks with sweet treats that fit into any and all carb ranges."
     },
     {
         "id": 5,
         "category": "snacks", 
-        "img_src": "//cdn.ruled.me/wp-content/themes/genesis-child/sections/custom-pages/keto-recipes-img/category_snacks.png", 
+        "image": "//cdn.ruled.me/wp-content/themes/genesis-child/sections/custom-pages/keto-recipes-img/category_snacks.png", 
         "title": "Snacks",
         "text": "Fueling road trips to evening commutes, you'll find some delicious choices to pack alongside wherever you go."    
     }

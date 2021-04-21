@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 import { Grid, InputBase, Typography } from '@material-ui/core';
 import SearchIcon from '@material-ui/icons/Search';
@@ -64,11 +65,11 @@ const Header = () => {
     return (
 
             <Grid container alignItems='center' justify="space-between" style={{ marginTop: '3rem' }} >
-                <a href='#' style={{ textDecoration: 'none' }}>
+                <Link to='/' style={{ textDecoration: 'none' }}>
                     <Grid item style={{ textTransform: 'uppercase' }}>
                         <Typography variant="h5">keto recipes logo</Typography>
                     </Grid>
-                </a>
+                </Link>
                 <Grid item style={{}}>
                     <div className={classes.search}>
                         <div className={classes.searchIcon}>

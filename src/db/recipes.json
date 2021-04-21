@@ -29,8 +29,1074 @@
             ],
             "img_src": "https://cdn.ruled.me/wp-content/uploads/2021/01/Eggplant-Hash-Featured.jpg",
             "description": "This eggplant hash is a great replacement for the classic potato hash but made keto-friendly! Instead of potatoes, this is made with diced eggplant pieces, halloumi cheese, and onion! A sunny side up egg is placed on top of the hash and the egg yolk oozes out and pairs perfectly with the eggplant hash. A perfect combination of a soft yet crunchy breakfast due to the eggplant and onion."
-        }
-        
+        },
+        {
+            "id": 8,
+            "category": "lunch",
+            "title": "Spicy Shrimp Avocado Salad",
+            "prep_time": "20 minutes",
+            "servings": "4 servings",
+            "calories_per_serving": "440",
+            "fat": "38.1 g",
+            "carbs": "5.5 g",
+            "protein": "17.2 g",
+            "prep": [
+                "2 medium avocado",
+                "1/2 medium lime, juice",
+                "5 ounce cucumber",
+                "2 ounce baby spinach",
+                "2 ounce cherry tomato, sliced",
+                "3 tablespoon olive oil, for frying",
+                "1 teaspoon fresh garlic, minced",
+                "1 tablespoon chili paste",
+                "10 ounce shrimp, peeled"
+            ],
+            "sauce": [
+                "1/4 cup olive oil",
+                "1 tablespoon fresh ginger, minced",
+                "1/2 medium lime, juice",
+                "1/2 tablespoon soy sauce (or coconut aminos)",
+                "1 teaspoon fresh garlic, minced",
+                "Salt and pepper to taste"
+            ],
+            "execution": [
+                "Measure out and prepare all the ingredients.",
+                "Cut up the avocado into slices and discard the pit. Squeeze lime juice over the avocado. Slice the cucumbers.",
+                "Plate the spinach, avocado slices, cucumbers slices, and cherry tomatoes. Season with salt and pepper to taste.",
+                "In a frying pan, add the olive oil, garlic, and chili paste. Add in the shrimp and fry for a few minutes each on both sides.",
+                "Add the cooked shrimp to the top of the salad.",
+                "Combine ingredients for the dressing: olive oil, ginger, lime juice, soy sauce, and garlic in a bowl and blend together using an immersion blender.",
+                "Top the salad with the ginger dressing.",
+                "Season with additional salt and pepper if desired. Enjoy!"
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2020/12/Spicy-Shrimp-Salad-Featured.jpg",
+            "description": "This salad is sure to make your tastebuds feel the heat! It is packed with protein and good fats, is filling, and deliciously spicy! The spicy part is the shrimp, which is cooked with chili paste and garlic. A ginger dressing finishes the salad delightfully. The ginger, soy sauce, and lime juice in the dressing cut through the spicy shrimp and savory vegetables for a tasteful keto-friendly salad"
 
+        },
+        {
+            "id": 9,
+            "category": "dinner",
+            "title": "Keto Vegan Walnut Chili",
+            "prep_time": "40 minutes",
+            "servings": "6 servings",
+            "calories_per_serving": "531",
+            "fat": "39 g",
+            "carbs": "10.5 g",
+            "protein": "30.1 g",
+            "prep": [
+                "5 tablespoon avocado oil",
+                "5 medium celery stalks, diced",
+                "2 teaspoon fresh garlic, minced",
+                "1 1/2 teaspoon ground cinnamon",
+                "2 teaspoon chili powder",
+                "4 teaspoon cumin",
+                "1 1/2 teaspoon smoked paprika",
+                "2 medium green bell pepper, diced",
+                "1 medium zucchini",
+                "8 ounce cremini mushrooms",
+                "2 ounce chipotle peppers in adobo sauce",
+                "1 1/2 tablespoon tomato paste",
+                "15 ounce canned diced tomatoes",
+                "4 cup vegetable broth",
+                "1/2 cup unsweetened cartoon coconut milk",
+                "20 ounce vegan meat crumbles",
+                "1 cup walnuts, crushed",
+                "1 tablespoon unsweetened cocoa powder"
+            ],
+            "sauce": [
+                "4 tablespoon fresh cilantro",
+                "2 medium avocado, sliced",
+                "4 tablespoon red radish, sliced",
+                "Salt and pepper to taste"
+            ],
+            "execution": [
+                "Measure out and prepare all the ingredients.",
+                "In a pan, heat up the avocado oil and add the celery. Cook until softened up while stirring occasionally, about 4-5 minutes.",
+                "Add garlic, cinnamon, chili powder, cumin, and smoked paprika. Stir this together until well combined.",
+                "Add bell pepper, zucchini, and mushrooms. Season with salt and pepper to taste. Cook this for 4-6 minutes.",
+                "Add the chipotle pepper, tomato paste, tomatoes, vegetable broth, coconut milk, vegan meat crumble, walnuts, and unsweetened cocoa powder. Stir until well combined. Let this cook for 20-25 minutes until the chili is thick and hot.",
+                "Top the chili with fresh cilantro, avocado slices, and sliced radishes. Season with additional salt and pepper to taste."
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2021/02/keto-vegan-walnut-chili-featured.jpg",
+            "description": "Winter is here and I love making warm dishes! Chili is one of my favorite meals to enjoy when it is cold out, but I wanted to make it vegetarian/vegan friendly so almost anyone can enjoy it! (except individuals with nut allergy’s). As the name suggests, this vegan walnut chili is packed with walnuts, which are rich in antioxidants and are packed with omega-3 fatty acids. Walnuts are also good for brain function and a healthy gut. Enjoy this vegan keto walnut chili, knowing it is packed with some great nutrients!"
+        },
+        {
+            "id": 10,
+            "category": "desserts",
+            "title": "Keto Strawberry Cream Pie",
+            "prep_time": "4 hours",
+            "servings": "12 servings",
+            "calories_per_serving": "175",
+            "fat": "16.7 g",
+            "carbs": "2.8 g",
+            "protein": "3 g",
+            "prep": [
+                "1 tablespoon butter",
+                 "1 cup almond flour",
+                 "1/4 cup stevia/erythritol blend",
+                 "1/4 teaspoon baking soda",
+                 "1/4 teaspoon salt, to taste",
+                 "1 teaspoon vanilla extract",
+                 "1/4 cup butter, diced"
+             ],
+             "sauce": [
+                "10 ounce strawberries, frozen + no sugar added",
+                "1 tablespoon lemon juice",
+                "1/4 cup water",
+                "1 1/4 teaspoon unflavored gelatin",
+                "1/3 cup stevia/erythritol blend",
+                "1 cup heavy whipping cream"
+            ],
+            "execution": [
+                "Gather and prepare all ingredients. Defrost the strawberries.",
+                "Preheat the oven to 375F and grease a pie or tart pan with butter.",
+                "Combine the almond flour, stevia/erythritol blend, baking soda, and salt into a food processor. Pulse it a few times to mix it all together.",
+                "Add the butter and vanilla extract. Pulse this until you get a dough mixture.",
+                "Put the dough in the greased pan and form it to the sides. Poke the bottom with a fork.",
+                "Place in the oven for 8-10 minutes and allow to cool completely before adding the strawberry cream.",
+               "Add water to a pan then sprinkle in the unflavored gelatin and let sit for 3-5 minutes. This is called blooming and an important step in order for the gelatin to be smooth.",
+                "Place the frozen but defrosted strawberries into a blender along with the lemon juice. Blend this until smooth. Leave this mixture in the blender and set aside.",
+                "Once the gelatin is done blooming, add the stevia/erythritol blend to the pan. Heat on low and stir constantly until everything is mixed well.",
+                "Have the blender on at its lowest setting and pour the heated mixture into the blender in the small opening on the blender.",
+                "Transfer this to a mixing bowl and refrigerate for a few minutes.",
+                "In a mixing bowl, whip the heavy whipping cream until stiff peaks form.",
+                "Pour the whipping cream mixture into the strawberry mixture.",
+                "Stir together until everything is well combined.",
+                "Pour this mixture on top of the cooled pie crust.",
+                "Cover the pie and let it sit in the refrigerator for 5 hours before enjoying."
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2021/02/Keto-Strawberry-Cream-Pie-Featured.jpg",
+            "description": "Sweet but keto-friendly, this strawberry cream pie is a scrumptious and light dessert! Yes, strawberries have natural sugar in them, but as long as they don't have any added sugar in them they will be fine to keep you in ketosis. I used frozen strawberries that do not contain any added sugar. Make sure to check the bags ingredients if you use frozen. Otherwise, you can certainly use fresh strawberries, especially if they are in season!"
+        },
+        {
+            "id": 11,
+            "category": "snacks",
+            "title": "Keto Pickle Sandwiches",
+            "prep_time": "10 minutes",
+            "servings": "2 servings",
+            "calories_per_serving": "494",
+            "fat": "40.6 g",
+            "carbs": "8.3 g",
+            "protein": "21.8 g",
+            "prep": [
+                "4 large dill pickle",
+                "4 tablespoon mayonnaise",
+                "1 1/2 teaspoon yellow mustard",
+                "2 ounce deli sliced turkey",
+                "2 ounce italian dry salami",
+                "1 medium fresh tomato, sliced",
+                "2 ounce iceberg lettuce",
+                "2 ounce cheddar cheese",
+                "1/4 medium red onion, sliced",
+                "Salt and pepper to taste"
+            ],
+            "execution": [
+                "Measure out and prepare all the ingredients.",
+                "Cut each pickle in half, lengthwise. Scoop out the seeds of the pickle and then some so it makes a little boat where you can easily put the mayonnaise and mustard without it squeezing out the sides of the sandwich.",
+                "In a bowl, mix the mayonnaise and mustard together. Put this on one side of the pickle, where you scooped the seeds out from.",
+                "Place the turkey, salami, tomato slices, lettuce leaves, cheese, and onion on top of the sauce. Season with salt and pepper to taste.",
+                "Place the other half of the pickle on top. Secure it down with a toothpick, and enjoy!"
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2020/11/Pickle-Sandwiches-Featured.jpg",
+            "description": "Craving sandwiches, but haven’t had anything to replace the bread since you started keto? Well, look no further than these savory pickle sandwiches! All the classics of a “regular” sandwich, just keto-friendly using the pickles on the outside as the bun. I used dill pickles for this dish so they are the perfect taste of sweet but salty and juicy yet crunchy. Whip these up in 10 minutes or less for lunch or a savory snack."
+        },
+        {
+            "id": 12,
+            "category": "breakfast",
+            "title": "Pork Rind Pancakes",
+            "prep_time": "25 minutes",
+            "servings": "1 serving",
+            "calories_per_serving": "627",
+            "fat": "54.9 g",
+            "carbs": "2.9 g",
+            "protein": "24.9 g",
+            "prep": [
+                "2/3 ounce pork rinds",
+                "2 large egg",
+                "2 tablespoon heavy cream",
+                "1 teaspoon maple extract",
+                "1 teaspoon cinnamon",
+                "2 tablespoon coconut oil, for frying"    
+            ],
+            "execution": [
+                "Measure out and prepare all the ingredients.",
+                "Grind up the pork rinds in a blender or food processor until you get a smooth powder.",
+                "Add the eggs, heavy cream, maple extract, and cinnamon to the blender. Blend again until you get a smooth consistency.",
+                "Turn the stovetop on medium heat and add some of the coconut oil to a pan.",
+                "Add the batter into the frying pan. Keep an eye out for bubbles forming in the middle and the edges looking cooked.",
+                "Flip onto the other side and continue cooking, making sure the pancake is fully cooked. Repeat this process with the rest of the batter, adding coconut oil as needed.",
+                "Enjoy!"
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2020/12/Pork-Rind-Pancakes-Featured.jpg",
+            "description": "Do you love pork rinds as much as I do? This was one snack I was glad I didn’t have to give up pork rinds on the keto diet, as there are minimal carbs in this mouthwatering snack. I love how they are so versatile and I can use them in numerous recipes, all keto-friendly!"
+        },
+        {
+            "id": 13,
+            "category": "breakfast",
+            "title": "Keto Coconut Porridge",
+            "prep_time": "15 minutes",
+            "servings": "1 serving",
+            "calories_per_serving": "521",
+            "fat": "50.6 g",
+            "carbs": "6.1 g",
+            "protein": "10.7g",
+            "prep": [
+                "1 large egg, beaten",
+                "1 tablespoon coconut flour",
+                "1/4 teaspoon psyllium husk powder",
+                "Salt to taste",
+                "2 tablespoon butter",
+                "4 tablespoon coconut cream",
+                "1/4 cup raspberries"
+            ],
+            "execution": [
+                "Gather and prep all ingredients.",
+                "In a bowl, mix together the beaten egg, coconut flour, psyllium husk powder, and salt.",
+                "On the stovetop over low heat, melt butter and coconut cream. Slowly add the egg mixture, whisking together until you have a creamy consistency.",
+                "Top the coconut porridge with fresh raspberries. Feel free to add a splash of coconut or almond milk if desired."
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2020/10/Coconut-Porridge-Featured.jpg",
+            "description": "Fall is here and I am so excited for the chilly mornings to start rolling in to enjoy some hot cereal. Cereal is hard to come by on the keto diet, cold or hot, so this is where this scrumptious coconut porridge comes in to play!"
+        },
+        {
+            "id": 14,
+            "category": "breakfast",
+            "title": "Keto Mushroom Omelet",
+            "prep_time": "15 minutes",
+            "servings": "1 serving",
+            "calories_per_serving": "587",
+            "fat": "48.3 g",
+            "carbs": "6.9 g",
+            "protein": "29.7 g",
+            "prep": [
+                "3 large egg",
+                "2 tablespoon butter",
+                "1 ounce cheddar cheese, shredded",
+                "1/4 medium red onion, diced",
+                "80 gram cremini mushroom, sliced",
+                "Salt and pepper to taste"  
+            ],
+            "execution": [
+                "Prep ingredients: shred the cheese, slice the mushrooms and chop the onion.",
+                "In a bowl, crack the eggs and add a little salt and pepper to taste. Whisk with a fork until it is all mixed together and slightly frothy.",
+                "Melt the butter in a frying pan. Add the chopped red onion and sliced mushrooms to the pan. Season to taste, then cook until the mushrooms are tender, stirring occasionally. Pour in the egg mixture on top, making sure it gets between the onions and mushrooms.",
+                "When the omelet is starting to get done around the sides and on the bottom but still raw on top, sprinkle the cheddar cheese over the top.",
+                "With a spatula, get under the omelet carefully and fold it in half.",
+                "When the omelet is golden brown on the bottom, remove from the pan and serve hot."
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2020/09/Keto-Mushroom-Omelette-Featured.jpg",
+            "description": "Omelets are always a great meal to make on the keto diet. Omelets are easy to whip up, full of good fats, filling, and taste so great! I love coming back to this recipe for an easy weeknight dinner when that breakfast for dinner craving hits, too!"
+        },
+        {
+            "id": 15,
+            "category": "lunch",
+            "title": "Keto Mozzarella and Tomato Steak Salad",
+            "prep_time": "30 minutes",
+            "servings": "6 servings",
+            "calories_per_serving": "830",
+            "fat": "64.7 g",
+            "carbs": "4.5 g",
+            "protein": "54 g",
+            "prep": [
+                "32 ounce sirloin steak, at room temp",
+                "2 tablespoon olive oil",
+                "3 teaspoon fresh garlic, minced",
+                "Salt and pepper to taste",
+                "6 ounce mixed greens",
+                "11 ounce cherry tomatoes, halved",
+                "11 ounce fresh mozzarella cheese"
+                  
+            ],
+            "sauce": [
+                "1 ounce fresh parsley",
+                "1/2 ounce fresh cilantro",
+                "1/2 ounce fresh basil",
+                "1/4 ounce fresh oregano",
+                "3/4 cup olive oil",
+                "2 tablespoon apple cider viinegar",
+                "1 tablespoon dijon mustard",
+                "Salt and pepper to taste"
+            ],
+            "execution": [
+                "Measure out and prepare all ingredients.",
+                "In a bowl, combine the olive oil and garlic together and brush on the steak. Season the steak with salt and pepper.",
+                "On a stovetop, cook the steak for 3-5 minutes per side for medium rare steaks. Using the steak at room temp will keep the steak tender when cooking and ensure a tastier steak.",
+                "Remove from heat and cover with aluminum foil loosely.",
+                "Plate the mixed greens with the cherry tomatoes and fresh mozzarella cheese. Mix together.",
+                "In a blender, pulse the ingredients for the sauce: parsley, cilantro, basil, oregano, olive oil, apple cider vinegar, dijon mustard, and salt and pepper to taste.",
+                "Cut the steak into slices and place on top of the mixed greens. Top with the sauce. Enjoy!"
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2021/01/Beef-Salad-with-Mozzarella-and-Tomatoes-Featured.jpg",
+            "description": "This steak salad is great for a light, keto-friendly lunch. I love turning classic dinners into a hearty lunch time salad."
+        },
+        {
+            "id": 16,
+            "category": "lunch",
+            "title": "Halloumi Salad with Mint sauce",
+            "prep_time": "15 minutes",
+            "servings": "4 servings",
+            "calories_per_serving": "354",
+            "fat": "25.8 g",
+            "carbs": "7.1 g",
+            "protein": "22.7 g",
+            "prep": [
+                "10 ounce halloumi cheese",
+                "1 cup full fat plain greek yogurt",
+                "1/4 cup fresh mint, chopped",
+                "2 tablespoon olive oil",
+                "1 teaspoon garlic, chopped",
+                "Salt and pepper to taste",
+                "10 ounces mixed greens",
+                "1 medium lemon"   
+            ],
+            "execution": [
+                "Gather and prep all ingredients.",
+                "In a bowl, combine greek yogurt, fresh mint, fresh garlic, olive oil, and salt and pepper. Stir until combined well and set aside.",
+                "Put the halloumi cheese into a nonstick frying pan without oil or butter. Fry on medium heat for 2-4 minutes. Apply pressure to the middle of the cheese before flipping to ensure the middle of the cheese is getting cooked.",
+                "Flip the halloumi cheese over and do the same to this side until the cheese is golden brown in color. Remove from the frying pan carefully.",
+                "Put mixed greens into a serving bowl and add the halloumi cheese on top. Squeeze the lemon on top and serve with the mint sauce.",
+                "",
+                "",
+                ""
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2020/09/Halloumi-and-Mint-Dip-Featured.jpg",
+            "description": "This halloumi cheese salad with mint sauce is great for vegetarians, cheese lovers, and anyone craving a little something Greek."
+        },
+        {
+            "id": 17,
+            "category": "lunch",
+            "title": "Creamy Keto Taco Soup",
+            "prep_time": "30 minutes",
+            "servings": "6 servings",
+            "calories_per_serving": "470",
+            "fat": "37.1 g",
+            "carbs": "6.7 g",
+            "protein": "24.7 g",
+            "prep": [
+                "16 ounce ground beef",
+                "1 tablespoon olive oil",
+                "1 medium onion, diced",
+                "3 cloves garlic, minced",
+                "1 medium green bell pepper, diced",
+                "10 ounce canned tomatoes with green chile",
+                "1 cup heavy cream",
+                "2 tablespoons taco seasoning",
+                "Salt and pepper to taste",
+                "2 cups beef broth",
+                "1 medium avocado",
+                "4 tablespoons sour cream, cubed",
+                "2 tbsp. cilantro, chopped"    
+            ],
+            "execution": [
+                "Gather and prep all ingredients. Dice the onion and bell pepper ahead of time.",
+                "In a pot over medium heat, add olive oil, onion, garlic, and ground beef. Season with salt and pepper.",
+                "Once the beef is browned, add in the bell pepper, diced tomato with green chile, heavy cream, and taco seasoning.",
+                "Stir together well making sure to incorporate the seasoning through all of the ingredients.",
+                "Add in the beef broth and then bring soup to a boil. Once boiling, reduce to low and simmer for 10-15 minutes, or until liquid has reduced and soup is thickened to your preference. Taste and season with salt and pepper if desired.",
+                "Portion out servings and garnish with avocado, sour cream, and cilantro. A squeeze of lime juice is great, too!"
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2020/08/Creamy-Keto-Taco-Soup-Featured.jpg",
+            "description": "Keto taco soup may be the perfect soup recipe. It’s easy-to-make, supremely satisfying, and can be adapted to the Crock-Pot or Instant Pot easily. (Plus, you can make it freezer-friendly for a super quick keto meal.)However, there’s one catch — We’ll have to skip the beans, corn, and tortilla chips that are often lurking in taco soup. With this keto taco soup recipe, they won’t be necessary anyway."
+
+        },
+        {
+            "id": 18,
+            "category": "lunch",
+            "title": "Keto Cauliflower Pizza Crust",
+            "prep_time": "40 minutes",
+            "servings": "3 servings",
+            "calories_per_serving": "350",
+            "fat": "22.2 g",
+            "carbs": "8.6 g",
+            "protein": "25.6 g",
+            "prep": [
+                "1 medium head of cauliflower",
+                "1/2 cup parmesan cheese, shredded",
+                "1/4 cup mozzarella cheese",
+                "1 egg",
+                "1/4 teaspoon salt",
+                "1/2 teaspoon garlic powder",
+                "1/2 teaspoon dried oregano",
+                "3/4 cup low-carb tomato sauce, like Rao's brand",
+                "1 1/4 cup mozzarella cheese"  
+            ],
+            "execution": [
+                "Pre-heat oven to 500F.",
+                "Wash and dry the cauliflower. Cut the cauliflower florets off from the stems.",
+                "Using a food processor, pulse the cauliflower florets until it resembles small crumbles (similar to pieces of rice). If you don't have a food processor, you can use a knife to finely chop or a grater to finely grate.",
+                "Microwave the riced cauliflower in a microwave safe bowl for 4-5 minutes or until slightly softened and cooked.",
+                "Let the cauliflower cool for a few minutes, then squeeze as much liquid out of it as possible. You can use a kitchen towel or cheesecloth to help with this.",
+                "Add the egg, parmesan cheese, mozzarella cheese, and spices. Stir together well until combined.",
+                "Spread the cauliflower mixture onto a baking sheet lined with parchment paper. Bake for 10-15 minutes until lightly golden brown and slightly crispy on the edges.",
+                "Top with tomato sauce and remaining mozzarella cheese. Return to the oven for 5-7 minutes, or alternatively broil the cheese on the pizza for 2-3 minutes.",
+                "Slice and serve!"
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2020/05/cauliflower-pizza-crust-keto-featured.jpg",
+            "description": "Though cauliflower is a low-carb vegetable, not all cauliflower crust pizzas are keto-friendly. In fact, most store-bought products and restaurant-made cauliflower crusts have around the same amount of net carbs as traditional flour-based pizza."
+
+        },
+        {
+            "id": 19,
+            "category": "dinner",
+            "title": "Keto Salmon Meatballs with Lemon Sauce",
+            "prep_time": "40 minutes",
+            "servings": "6 servings",
+            "calories_per_serving": "835",
+            "fat": "70.7 g",
+            "carbs": "7.8 g",
+            "protein": "40 g",
+            "prep": [
+                "32 ounce boneless salmon fillets",
+                "2 large egg yolk",
+                "1/2 cup heavy whipping cream",
+                "1 tablespoon dried dill",
+                "Salt and pepper to taste",
+                "2 ounce butter",
+                "24 ounce green cabbage, head of",
+                "2 tablespoon olive oil",
+                "Salt and pepper to taste"    
+            ],
+            "sauce": [
+                "1 1/2 cup heavy whipping cream",
+                "6 ounce cream cheese",
+                "2 tablespoon lemon juice",
+                "Salt and pepper to taste",
+                "1/4 teaspoon ground nutmeg",
+                "2 teaspoon lemon zest"
+            ],
+            "execution": [
+                "Measure out and prepare the ingredients. Preheat oven to 425F.",
+                "Chop the salmon into small dices. Put in a food processor.",
+                "Add the egg yolk, heavy whipping cream, dried dill, and salt and pepper to the food processor. Pulse until it is creamy.",
+                "With your hands, form them into small circles.",
+                "Fry the salmon meatballs in a frying pan with butter until golden brown.",
+                "Lower the heat and cook a bit longer until they are thoroughly cooked.",
+                "Slice the cabbage head into steaks.",
+                "On a baking sheet lined with parchment paper, drizzle the cabbage steaks with olive oil and season with salt and pepper.",
+                "Flip them over and do the same thing on the other side. Bake in the oven for 15-20 minutes.",
+                "For the lemon bechamel sauce, put the heavy whipping cream and cream cheese in a frying pan and bring to a boil. Stir consistently.",
+                "Lower heat once boiled, and let simmer for a few minutes. then add the salt and pepper, nutmeg, and lemon zest. Stir well.",
+                "Serve the salmon meatballs with the cabbage steaks and lemon bechamel sauce. enjoy!"
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2021/03/Keto-Salmon-Meatballs-Featured.jpg",
+            "description": "Homemade meatballs are better than any store bought meatballs. But this is a little something different than your classic meatballs. These salmon meatballs are cooked to a tasty golden brown in butter and served with roasted cabbage and a delicious lemon bechamel sauce."
+
+        },
+        {
+            "id": 20,
+            "category": "dinner",
+            "title": "Keto Bacon Wrapped Chicken with Cauliflower",
+            "prep_time": "45 minutes",
+            "servings": "4 servings",
+            "calories_per_serving": "893",
+            "fat": "74.3 g",
+            "carbs": "4.1 g",
+            "protein": "52.7 g",
+            "prep": [
+                "4 teaspoon fresh garlic, pressed",
+                "2 ounce butter",
+                "12 ounce cauliflower",
+                "1/3 cup heavy whipping cream",
+                "Salt and pepper to taste",
+                "24 ounce boneless + skinless chicken thighs",
+                "10 ounce bacon",
+                "2 tablespoon olive oil",
+                "Salt and pepper to taste",
+                "12 ounce spinach"
+            ],
+            "execution": [
+                "Measure out and prepare all the ingredients.",
+                "Peel off the skin of the garlic cloves and press the fresh garlic with the handle of a knife.",
+                "Fry the pressed fresh garlic in butter for 1-2 minutes.",
+                "Rinse the cauliflower and cut into small florets. Cook the cauliflower for 2-3 minutes in a pan of lightly salted water.",
+                "Put the slightly tender cauliflower in a food processor with the fried garlic and butter. Then, add the heavy whipping cream.",
+                "Pulse the food processor until the mixture is smooth. Add water as needed to achieve your desired consistency for the cauliflower puree.",
+                "Wrap each chicken breast in 1-2 pieces of bacon and fry in olive oil over medium-high heat until bacon looks thoroughly cooked. Use a food thermometer to ensure chicken is cooked thoroughly (165 F). You may put in the oven if chicken has not reached 165 F by frying. Use this same pan to fry the spinach for 1-3 minutes.",
+                "Plate the cauliflower puree with the chicken breast and fried spinach. Enjoy!"     
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2021/02/Bacon-Wrapped-Chicken-Featured.jpg",
+            "description": "This keto chicken recipe is wrapped with bacon and fried to perfection. It is then served with cauliflower puree, which tastes so good against the salty but crispy bacon! It is filling, very satisfying, and might become a weekly dinner for me!"
+
+        },
+        {
+            "id": 21,
+            "category": "dinner",
+            "title": "Flank Steak with Gratin and Pepper Sauce",
+            "prep_time": "1 hour",
+            "servings": "4 servings",
+            "calories_per_serving": "835",
+            "fat": "65.3 g",
+            "carbs": "7.4 g",
+            "protein": "52.3 g",
+            "prep": [
+                "8 ounce broccoli",
+                "8 ounce cauliflower",
+                "1/2 cup heavy cream",
+                "2 ounce cream cheese",
+                "4 ounce cheddar cheese, shredded",
+                "20 ounce flank steak",
+                "2 tablespoon olive oil, for frying"   
+            ],
+            "sauce": [
+                "1 cup heavy cream",
+                "1 tablespoon soy sauce, or coconut aminos",
+                "1/2 teaspoon black pepper",
+                "2 tablespoon fresh parsley, to garnish"
+            ],
+            "execution": [
+                "Measure out and prepare all ingredients. Preheat oven to 400F and grease a baking dish.",
+                "Rinse and chop broccoli and cauliflower into small florets.",
+                "Boil the broccoli and cauliflower together in a pot for about 5 minutes, or until fork-tender. Drain and set aside.",
+                "In a pan over medium heat, add heavy cream, cream cheese, and half the shredded cheddar cheese and stir together until everything is melted.",
+                "Mix in the broccoli and cauliflower.",
+                "In a greased baking dish, add this mixture and top with the rest of the shredded cheddar cheese. Bake in the oven for about 20 minutes.",
+                "While the gratin is cooking, season the steak with salt and pepper on both sides.",
+                "In a frying pan over medium to high heat, fry the steak in olive oil for about 4-5 minutes per side. When done, put the steak on a cutting board and allow it to rest for 5-10 minutes before slicing.",
+                "To make the pepper sauce, add the heavy cream, soy sauce, and ground black pepper to the same pan the steak was cooked in over high heat. Bring to a boil then let it simmer until it becomes creamy.",
+                "Cut the steak into thin slices.",
+                "Serve the steak with the gratin and pepper sauce and finish with fresh parsley. Enjoy!"
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2021/02/Flank-Steak-with-Pepper-Sauce-Featured.jpg",
+            "description": "Flank steak is a lean cut of meat. Since it is very lean, it could easily become overcooked so that is why I cooked this steak to medium rare and finished it with slicing it very thin."
+
+        },
+        {
+            "id": 22,
+            "category": "dinner",
+            "title": "Keto Fish Casserole",
+            "prep_time": "45 minutes",
+            "servings": "4 servings",
+            "calories_per_serving": "770",
+            "fat": "59.1 g",
+            "carbs": "8.8 g",
+            "protein": "51.1 g",
+            "prep": [
+                "2 tablespoon olive oil",
+                "16 ounce broccoli",
+                "5 ounce spinach",
+                "6 medium green onion",
+                "2 tablespoon capers",
+                "1 tablespoon butter, for greasing dish",
+                "24 ounce white fish",
+                "1 1/4 cup heavy cream",
+                "1/2 medium lemon, juice of",
+                "1 tablespoon dijon mustard",
+                "1 tablespoon fresh parsley, chopped",
+                "6 tablespoon butter",
+                "Salt and pepper to taste"    
+            ],
+            "execution": [
+                "Measure and prepare all ingredients. Grease a baking dish with butter and preheat oven to 400F.",
+                "Cut broccoli into small florets, keeping the stem pieces.",
+                "Place the oil in a pan on medium heat. Once hot, add the broccoli and cook until fork-tender, about 4-5 minutes. Add the spinach to the broccoli and allow to wilt for 45-60 seconds.",
+                "Once the spinach is wilted, add the green onions and capers to the pan. Saute for another 1-2 minutes.",
+                "Add the vegetables to the greased baking dish. Place the fish on top of the vegetables, covering the sides of the fish with the vegetables.",
+                "Mix together the heavy cream, lemon juice, Dijon mustard, and chopped parsley well. Pour over the top of the fish and vegetables, then top with slices of butter. Bake in the oven for 20 minutes or until fish is flakey.",
+                "Serve warm and enjoy!"
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2021/01/Fish-Casserole-Featured.jpg",
+            "description": "This is a luxurious fish casserole with capers, a creamy lemony white sauce, served on a bed of vegetables. I used wild Alaskan cod in this recipe, but any type of white fish such as bass, grouper, halibut would work also."
+
+        },
+        {
+            "id": 23,
+            "category": "desserts",
+            "title": "Keto Blackberry and Zucchini Crumble",
+            "prep_time": "55 minutes",
+            "servings": "6 servings",
+            "calories_per_serving": "326",
+            "fat": "27.6 g",
+            "carbs": "8.3 g",
+            "protein": "8.7 g",
+            "prep": [
+                "4 medium zucchini",
+                "1 1/2 cup blackberries",
+                "2 teaspoon ground cinnamon",
+                "2 tablespoon lemon juice",
+                "1/3 cup powdered erythritol",
+                "2 teaspoon cream of tartar",
+                "1 1/2 cup almond flour",
+                "2 tablespoon erythritol",
+                "3 tablespoons butter",
+                "1 teaspoon vanilla extract",
+                "1/2 cup heavy cream, whipped"   
+            ],
+            "execution": [
+                "Measure out and prepare all the ingredients. Preheat oven to 350F.",
+                "Cut off the ends of the zucchini and peel them. Slice the zucchini in half lengthwise and scoop out the seeds with a spoon. Discard the seeds.",
+                "Chop the zucchini into small pieces. Add the chopped zucchini into a pan of boiling water for 2-3 minutes. Drain and pat dry.",
+                "In a bowl, combine cooked zucchini, blackberries, cinnamon, lemon juice, powdered erythritol, and cream of tartar. Mix until fully combined.",
+                "In another bowl, combine almond flour, erythritol, and vanilla extract. Press the butter into the other ingredients using a fork to make a crumble like consistency.",
+                "In an oven-safe skillet, add the blackberry zucchini filling to the bottom of the pan. Then sprinkle with the crumble topping. Bake for 30-40 minutes, or until topping is golden brown.",
+                "In a separate bowl, whip the cream until desired consistency is reached. Top the crumble with whipped cream and enjoy warm!"   
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2020/11/Blackberry-Apple-Crumble-Featured.jpg",
+            "description": "Zucchini in a dessert dish sounds very weird, I agree, but this keto crumble would actually be missing something without it. The zucchini mixed in with the top crumble part of this dish next to the blackberries, cinnamon, and almond flour make it actually taste like an apple or a pear, definitely not a zucchini."
+
+        },
+        {
+            "id": 24,
+            "category": "desserts",
+            "title": "Chocolate Almond Avocado Pudding",
+            "prep_time": "5 hours, 5 minutes",
+            "servings": "3 servings",
+            "calories_per_serving": "334",
+            "fat": "29.8 g",
+            "carbs": "6.6 g",
+            "protein": "5.6 g",
+            "prep": [
+                "1 1/2 cup unsweetened almond milk",
+                "1/2 cup coconut cream",
+                "3 tablespoon stevia/erythritol blend",
+                "1 medium avocado, pitted and peeled",
+                "3 tablespoon unsweetened cocoa powder",
+                "1 teaspoon vanilla extract",
+                "1 teaspoon almond extract",
+                "2 tablespoon unsweetened coconut flakes, for garnish",
+                "2 tablespoon almonds, for garnish"  
+            ],
+            "execution": [
+                "Gather and prep all ingredients.",
+                "Put the almond milk, coconut cream, stevia/erythritol blend, avocado (pitted and peeled), unsweetened cocoa powder, vanilla and almond extract into a blender. Pulse the blender until everything is well combined.",
+                "Pour into cups for serving and cover. Place in the refrigerator for at least 5 hours or overnight and then top the chocolate pudding with coconut flakes and almonds before serving."
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2020/09/Chocolate-Avocado-Almond-Pudding-Featured.jpg",
+            "description": "This recipe is a great one to make on the weekend. I like making it the morning, letting it set in the refrigerator, and being able to enjoy it after dinner! Be sure to enjoy it the day you make it or the following day."
+
+        },
+        {
+            "id": 25,
+            "category": "desserts",
+            "title": "Keto Tiramisu",
+            "prep_time": "45 minutes",
+            "servings": "8 servings",
+            "calories_per_serving": "367",
+            "fat": "34.4 g",
+            "carbs": "4.1 g",
+            "protein": "9.2 g",
+            "prep": [
+                "1/3 cup stevia/erythritol blend",
+                "1/3 cup butter, softened",
+                "3 large eggs, room temperature",
+                "1/4 cup heavy cream",
+                "1 teaspoon vanilla extract",
+                "1.5 cups almond flour",
+                "1 teaspoon baking powder",
+                "1 pinch sea salt",
+                "1/4 cup espresso or strong coffee, room temperature"    
+            ],
+            "sauce": [
+                "2 large egg yolks, room temperature",
+                "2 tbsp. cup stevia/erythritol blend, powdered",
+                "4 ounce cream cheese, softened",
+                "1 1/2 tablespoon sour cream",
+                "1/2 cup heavy cream, chilled",
+                "1/2 teaspoon cocoa powder, for dusting"
+            ],
+            "execution": [
+                "Gather all ingredients and prep them. Pre-heat oven to 350F. Line a square baking dish with parchment paper and set aside.",
+                "For the cake, beat together the butter and sweetener in a bowl until light in color and slightly fluffy.",
+                "Add in the eggs, heavy cream, and vanilla extract and beat to incorporate.",
+                "Add in the almond flour, baking powder, and salt and beat again until smooth.",
+                "Transfer the batter to the square baking dish and use a spatula to smooth out the top. Bake for 20-25 minutes until golden brown or an inserted toothpick comes out clean.",
+                "While the cake is cooking, start on the filling. Beat the egg yolks and powdered sweetener in a metal bowl, then place over a pan to create a double-boiler.",
+                "Turn the pan on to boil the water and once boiling, reduce heat to low. Cook the egg yolk mixture for 4-5 minutes while continuously stirring until the mixture is lighter in color and slightly frothy.",
+                "Take the mixture off of the heat and beat the mixture again until thicker, darker in color, and smooth.",
+                "In a separate bowl, beat the heavy cream until whipped with stiff peaks.",
+                "Add the cream cheese and sour cream to the beaten egg yolk mixture, then beat slowly to combine.",
+                "Gently fold the cream cheese mixture into the whipped cream.",
+                "Once the cake is cooled, remove from the baking dish and put onto a cutting board.",
+                "Pour espresso (or strong coffee) slowly over the top of the cake until evenly distributed.",
+                "Slice the cake in half, forming 2 large rectangles.",
+                "Ice one half of the cake with the filling mixture, then place the second piece of the cake on top of that and ice again.",
+                "Dust with cocoa powder and slice to serve. Enjoy as a decadent dessert or rich breakfast!"
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2020/07/Keto-Tiramisu-Featured.jpg",
+            "description": "Tiramisu is one of the most satisfying desserts when it’s at its best. However, the process of making it yourself can be overwhelming at first, especially on the keto diet."
+
+        },
+        {
+            "id": 26,
+            "category": "desserts",
+            "title": "Berry Bomb Pops",
+            "prep_time": "",
+            "servings": "6 servings",
+            "calories_per_serving": "146",
+            "fat": "13.07 g",
+            "carbs": "5.26 g",
+            "protein": "1.14 g",
+            "prep": [
+                "1 cup frozen raspberries",
+                "1 cup frozen blueberries",
+                "1 cup water, divided",
+                "1 ½ teaspoons liquid stevia, divided",
+                "1 ½ cups canned coconut cream",
+                "½ teaspoon vanilla extract",
+                "Popsicle molds and sticks"
+            ],
+            "execution": [
+                "Place the raspberries, ½ cup water, and ½ teaspoon liquid stevia in a small saucepan. Bring the mixture to a boil over medium-high heat. Simmer for about 5 minutes until the fruit starts to break down and a little of the liquid has been reduced.",
+                "Remove from the heat and use an immersion blender (or blender) to make a smooth red puree.",
+                "Repeat the above process with the blueberries. Place the blueberries, ½ cup water and ½ teaspoon liquid stevia in a small saucepan over medium-high heat. Simmer for about 5 minutes.",
+                "Remove from the heat and use an immersion blender (or blender) to make a smooth blue puree. Set aside to cool or place in the refrigerator until ready to use.",
+                "While the fruit is cooking mix the coconut cream, ½ teaspoon liquid stevia and vanilla extract in a separate small bowl. Set aside or place in the refrigerator until ready to use.",
+                "To assemble the popsicles start by dividing the raspberry puree into the molds. Carefully add approximately 2-3 full tablespoons of mixture into the center of each mold, filling about ? full.",
+                "Place the molds into the freezer and chill for at least 1 hour until set.",
+                "Using the same spoon method divide the coconut cream into the molds, about 3-4 tablespoons in each. Try to work quickly so the raspberry layer doesn’t melt and bleed into the coconut.",
+                "Place back in the freezer for about 30 minutes until partially set. This is the only time you really need to watch them. The coconut layer should be firm enough to hold the popsicle sticks but soft enough they can still be inserted.",
+                "Add one stick to each mold, leaving a little bit of stick poking above the top (to hold it by) and place back into the freezer for at least another hour until completely solid.",
+                "Finally add the blueberry puree using the same spoon method, about 2-3 full tablespoons in each.",
+                "Place the molds back in the freezer until completely set, at least another 1-2 hours."
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2017/06/berry-bomb-pops-featured.jpg",
+            "description": "Bomb Pops are such a classic and nostalgic summer treat, especially with Independence Day right around the corner. Kids love popsicles, and with temperatures and humidity on the rise they are always looking for ways to cool off."
+
+        },
+        {
+            "id": 27,
+            "category": "snacks",
+            "title": "Keto Spicy Deviled Eggs",
+            "prep_time": "40 minutes",
+            "servings": "6 servings",
+            "calories_per_serving": "206",
+            "fat": "19 g",
+            "carbs": "1.12 g",
+            "protein": "6.75 g",
+            "prep": [
+                "6 large eggs",
+                "1 tablespoon red curry paste",
+                "½ cup mayonnaise",
+                "¼ teaspoon salt",
+                "½ tablespoon poppy seeds"
+            ],
+            "execution": [
+                "Place the eggs in a pot, then cover with cold water. Leave uncovered as you bring it to a boil.",
+                "Let the eggs simmer for 8 minutes, then remove the eggs and plunge into an ice bath.",
+                "Remove the shells from the eggs, then split the eggs in half. Remove the yolks and add them to a bowl.",
+                "Plate the egg halves and keep chilled while you work on the filling.",
+                "Add the curry paste, mayonnaise, and salt to the egg yolks. Mash and mix until it smooths out into a creamy egg filling.",
+                "Divide the egg filling into the empty whites.",
+                "Garnish with poppy seeds and serve."
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2020/01/spicy-deviled-eggs-featured.jpg",
+            "description": "This recipe is perfect for anyone who loves spicy finger foods. The red curry paste adds the perfect pop of spice and flavor to the creamy egg filling. They make an ultra-attractive appetizer or snack tray."
+        },
+        {
+            "id": 28,
+            "category": "snacks",
+            "title": "Keto Cheese and Bacon Stuffed Mushrooms",
+            "prep_time": "30 minutes",
+            "servings": "16 mushrooms/ 4 mushrooms - serving",
+            "calories_per_serving": "283",
+            "fat": "22.13 g",
+            "carbs": "4.93 g",
+            "protein": "15.33 g",
+            "prep": [
+                "4 slices bacon",
+                "3 ounces frozen spinach, thawed and drained",
+                "1 clove minced garlic",
+                "4 ounces cream cheese",
+                "1 large egg",
+                "2 tablespoons coconut flour",
+                "1 cup mozzarella cheese",
+                "Salt and pepper, to taste",
+                "16 medium baby bella mushrooms, washed and dried"  
+            ],
+            "execution": [
+                "Preheat your oven to 350F. Use a skillet to cook the bacon until it's crisp, then set aside to cool. Transfer the bacon fat to a large mixing bowl.",
+                "Crumble the bacon. Add 3/4 of the bacon, the spinach, garlic, cream cheese, egg, coconut flour, and mozzarella cheese to the mixing bowl. Season with salt and pepper then mix well.",
+                "Remove the stems from the mushrooms. Stuff each mushroom cap with the filling then place into a small casserole dish.",
+                "Top the mushrooms with the remaining bacon.",
+                "Bake at 350F for 20 minutes or until the filling starts bubbling and has browned."
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2019/10/low-carb-stuffed-mushrooms-featured.png",
+            "description": "I love stuffed mushrooms, they’re just the happiest vessels for whatever you want to put inside. These are made with spinach, cheese, and bacon – which happens to be one of my favorite flavor trio’s. These cheese and bacon stuffed mushrooms are tasty and filling, so be sure to give them a try."
+
+        },
+        {
+            "id": 29,
+            "category": "snacks",
+            "title": "Keto Cheesy Bacon Nacho Chips",
+            "prep_time": "20 minutes",
+            "servings": "2 servings",
+            "calories_per_serving": "280",
+            "fat": "21.8 g",
+            "carbs": "22.55 g",
+            "protein": "18.6 g",
+            "prep": [
+                "½ cup shredded Swiss cheese",
+                "½ cup shredded cheddar cheese",
+                "1/8 cup cooked bacon pieces"  
+            ],
+            "execution": [
+                "Preheat your oven to 300F. Line a baking sheet with parchment paper.",
+                "Spread the Swiss cheese out on the parchment. Sprinkle the bacon on top of the Swiss, then add the cheddar cheese as the final layer.",
+                "Straighten up the edges so that the cheese forms a square.",
+                "Bake in the oven for 10 minutes or until the cheese has melted together and starts to brown. Remove from the oven and allow to cool.",
+                "Cut the cheese into strips, and then down into triangles.",
+                "Line another baking sheet with parchment paper, then arrange the cheese triangles on top. Broil for another minute or two to make the chips crunchy."
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2019/09/keto-cheese-bacon-nachoes-featured.jpg",
+            "description": "Ever wondered what you could use for eating keto dips? You’ve got to try these bacon nacho chips. Baked layers of cheese and real bacon crisp up to make the perfect chips."
+
+        },
+        {
+            "id": 30,
+            "category": "snacks",
+            "title": "Keto Fruit Rollups",
+            "prep_time": "",
+            "servings": "8 servings",
+            "calories_per_serving": "20",
+            "fat": "0.13 g",
+            "carbs": "2.99 g",
+            "protein": "0.25 g",
+            "prep": [
+                "2 cups mixed berries",
+                "3 tablespoons erythritol"  
+            ],
+            "execution": [
+                "Puree the mixed berries and erythritol until smooth. Strain out any seeds from the puree using a sieve.",
+                "Add parchment paper or a baking mat to a baking tray. Smooth the puree out across the tray as evenly as possible.",
+                "Preheat your oven to 140 degrees, or the lowest temperature possible. Bake the fruit for 2-4 hours or until the center of the tray is no longer stick to the touch. If possible, leave the door of your oven slightly open. Check the fruit every 30 minutes while baking.",
+                "Peel the fruit leathers gently off the baking tray then cut into the shape you desire. Don’t worry if it feels dry, it will become sticky overnight. Roll up using pieces of parchment or wax paper to prevent the fruit leathers from sticking together. If you used parchment paper to bake you can just cut through the paper."
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2019/05/fruit-roll-ups-featured.jpg",
+            "description": "emember getting little rolls of fruit leather tucked into your lunch box?  This recipe brings that back but replaces all the sugar with keto friendly erythritol.  The best part about this recipe is that you do not need a dehydrator.  You can just make this in your oven!"
+
+        },
+        {
+            "id": 31,
+            "category": "snacks",
+            "title": "Baked Brie with a Keto Crust",
+            "prep_time": "45 minutes",
+            "servings": "10 servings",
+            "calories_per_serving": "216",
+            "fat": "17.74 g",
+            "carbs": "1.76 g",
+            "protein": "12.52",
+            "prep": [
+                "¾ cup almond flour",
+                "1 teaspoon baking powder",
+                "2 cups mozzarella cheese",
+                "230-gram wheel of brie",
+                "¼ cup chopped and sauteed button mushrooms",
+                "3 tablespoons bacon bits",
+                "1 tablespoon butter" 
+            ],
+            "execution": [
+                "In a bowl, mix your almond flour and baking powder.",
+                "In a separate microwavable bowl, heat up your mozzarella cheese.",
+                "Mix your mozzarella and almond flour until it has the consistency of dough.",
+                "Quickly place the dough between two pieces of parchment paper and roll it into a circle using a rolling pin.",
+                "Place your brie cheese into the center of the dough.",
+                "Top the brie with the mushrooms and bacon.",
+                "Using a knife, make a cut in the dough from the brie to the outside. Make similar cuts around the entire brick of cheese.",
+                "Take an individual piece of dough and bring it up onto the top of the brie/mushrooms/bacon. Continue wrapping the brie with the pieces of dough.",
+                "Once the entire brick of brie is covered, brush butter over the dough.",
+                "Once the entire brick of brie is covered, brush butter over the dough."
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2018/05/keto-baked-brie-featured.jpg",
+            "description": ""
+        },
+        {
+            "id": 32,
+            "category": "breakfast",
+            "title": "Keto Mushroom Sausage Skillet",
+            "prep_time": "30 minutes",
+            "servings": "6 servings",
+            "calories_per_serving": "364",
+            "fat": "29 g",
+            "carbs": "4.3 g",
+            "protein": "20.1 g",
+            "prep": [
+                "16 ounce pork sausage",
+                "16 ounces cremini mushroom",
+                "2 tablespoon olive oil",
+                "1 cup mozzarella cheese, grated",
+                "2 medium green onion, for garnish"
+            ],
+            "execution": [
+                "Gather and prep all ingredients. Turn on the oven to a broil to preheat. Pour half the olive oil onto a cast iron skillet and turn on the stovetop to a medium heat.",
+                "Wash mushrooms, dry well with a paper towel, and cut the mushrooms into slices.",
+                "On the stovetop, cook the sausages in the cast iron skillet on medium to high heat until they are brown and fully cooked. Once they are fully cooked, remove the sausages from the skillet and put on a cutting board.",
+                "Add the rest of the olive oil to the skillet then add the mushrooms and cook the mushrooms until they are golden brown.",
+                "While the mushrooms are cooking, with a diagonal cut, chop up the pork sausage on a cutting board.",
+                "Once the mushrooms are fully cooked, add the chopped pork sausage to the skillet and sprinkle with mozzarella cheese. Put it in the oven on broil until the cheese starts to melt. Watch the oven carefully, the cheese melts quick!",
+                "Remove from the oven and garnish with green onions."
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2020/09/Breakfast-Skillet-Featured.jpg",
+            "description": "This breakfast skillet is one of my favorite meals to make! It tastes so good and is so easy to make! Everything is cooked in one pan: a cast iron skillet."
+
+        },
+        {
+            "id": 33,
+            "category": "breakfast",
+            "title": "Keto Crepes",
+            "prep_time": "20 minutes",
+            "servings": "4 servings",
+            "calories_per_serving": "297",
+            "fat": "25.2 g",
+            "carbs": "3.7 g",
+            "protein": "12.6 g",
+            "prep": [
+                "4 ounce cream cheese, softened",
+                "4 large eggs",
+                "3/4 cup almond flour",
+                "2 tablespoon stevia erythritol blend",
+                "1/4 cup unsweetened almond milk" 
+            ],
+            "execution": [
+                "Gather and prep all ingredients.",
+                "Add all ingredients to a blender, then pulse until smooth and well combined. Let rest for a few minutes.",
+                "In a non-stick pan over medium-low heat, spray just enough cooking spray to cover the bottom of the pan. Once hot, add about 1-2 tablespoons of batter.",
+                "Swirl the pan to spread the batter into a thin layer.",
+                "Cook the crepe until the edges are slightly hardened and bottom can be loosened with a spatula. Flip and cook on the other side until a light golden-brown color is achieved.",
+                "Repeat this process with all of the batter. Fill or top with your favorite fillings (we love them with keto nutella).",
+                "Serve warm and enjoy! Feel free to add a few extra berries or powdered erythritol for some added aesthetic (just make sure you take any additions into account when calculating macros)."
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2020/09/Almond-Flour-Crepes-Featured.jpg",
+            "description": "Crepes are the perfect compromise between a thick, heavy pancake and a thin, soft tortilla. You can eat them by the stack, turn them into a breakfast wrap, or transform them into a uniquely satisfying dessert."
+
+        },
+        {
+            "id": 34,
+            "category": "lunch",
+            "title": "Keto Cauliflower Tabbouleh",
+            "prep_time": "",
+            "servings": "6 servings",
+            "calories_per_serving": "159",
+            "fat": "14.52 g",
+            "carbs": "3.82 g",
+            "protein": "2.47 g",
+            "prep": [
+                "1 1/2 cups riced cauliflower",
+                "1/4 cup chopped red onion",
+                "1/4 cup diced red bell pepper",
+                "1/2 cup diced cucumber",
+                "12 large Kalamata Olives",
+                "1/4 cup lemon juice",
+                "1/4 cup olive oil",
+                "Salt and Pepper, to taste",
+                "1 cup chopped parsley",
+                "1 cup chopped mint leaves",
+                "1/2 medium avocado, diced",
+                "1 ounce slivered almonds"    
+            ],
+            "execution": [
+                "In a large bowl, combine the riced cauliflower, red onion, bell pepper, cucumber and Kalamata olives.",
+                "Drizzle the veggies in the lemon juice and olive oil. Season with salt and pepper and stir to coat.",
+                "Fold in chopped parsley and mint.",
+                "Add diced avocado to the bowl and gently mix in.",
+                "Top with slivered almonds. Serve chilled."
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2019/02/keto-acocado-tabbouleh-featured.jpg",
+            "description": "Traditional tabbouleh is made with fresh herbs, cooked grains, a healthy dose of olive oil and lemon juice, then seasoned with salt and pepper. This keto version keeps all of the bright and herbaceous flavor but uses grated or “riced” cauliflower to keep the carbs low and the fiber high. I also added some fun flavors and textures to bump of the fat without meat or dairy by utilizing creamy hunks of avocado and salty Kalamata olives that give it that perfect balance of crunchy, salty and savory."
+
+        },
+        {
+            "id": 35,
+            "category": "dinner",
+            "title": "Keto Chicken Stir Fry",
+            "prep_time": "30 minutes",
+            "servings": "4 servings",
+            "calories_per_serving": "521",
+            "fat": "38.5 g",
+            "carbs": "7 g",
+            "protein": "33.6 g",
+            "prep": [
+                "1.5 pound bone-in, skin-on chicken thighs, de-boned and cut into slices",
+                "2 whole garlic cloves, minced",
+                "1 tablespoon ginger, peeled and grated",
+                "1/4 cup soy sauce, use tamari or coconut aminos if avoiding soy",
+                "1 tablespoon apple cider vinegar",
+                "3 tablespoon avocado oil",
+                "1 medium onion, chopped",
+                "7 ounce broccoli",
+                "1/2 medium red bell pepper, sliced",
+                "3 ounce cremini mushrooms, sliced",
+                "2 teaspoon sesame oil",
+                "1/2 teaspoon red pepper flakes"    
+            ],
+            "execution": [
+                "Prep all ingredients so that they are ready to use.",
+                "Marinate chicken in garlic, ginger, soy sauce, and vinegar.",
+                "Add half of the avocado oil in a pan (or wok) over high heat. Once hot, add the onion and cook for 1-2 minutes or until soft, then add the red bell pepper and broccoli.",
+                "Once broccoli is cooked, but still crisp, remove the vegetables from the pan and place in a bowl. Set aside.",
+                "Drain the chicken from the marinade (keeping the marinade to add later). Add the remaining avocado oil to your pan (or wok) and once hot, add the chicken. Cook the chicken over high heat until completely cooked through, about 4-6 minutes.",
+                "Once chicken is cooked, add all remaining ingredients into the pan (including the pre-cooked vegetables and marinade).",
+                "Cook for 3-4 minutes more, until the mushrooms are al dente and sauce has reduced. Serve hot and enjoy!"
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2020/07/Keto-Stir-Fry-Recipe-Featured.jpg",
+            "description": "Quality keto cooking doesn’t have to be a time-consuming chore. Though some recipes recommend special gadgets, multiple pans, and uncommon ingredients, these are not essential for a delicious keto-friendly meal."
+
+        },
+        {
+            "id": 36,
+            "category": "desserts",
+            "title": "Pecan Softies with Sea Salt and Dark Chocolate",
+            "prep_time": "",
+            "servings": "10 servings",
+            "calories_per_serving": "128",
+            "fat": "12.66 g",
+            "carbs": "2.17 g",
+            "protein": "2.69 g",
+            "prep": [
+                "1/2 cup almond flour",
+                "1 cup pecan halves",
+                "1 1/2 tablespoons butter, melted",
+                "1 teaspoon baking powder",
+                "1/4 cup erythritol",
+                "1/2 teaspoon sea salt",
+                "1 large egg white",
+                "1 ounce low-carb dark chocolate, melted for drizzle" 
+            ],
+            "execution": [
+                "Heat oven to 350F and line a cookie sheet with parchment paper. Combine the dry ingredients in a blender or food processor and pulse until the pecans are a coarse ground.",
+                "Add the butter, salt, and egg white into the blender and pulse a few times to combine. The cookie dough should like wet and feel sticky but still chunky.",
+                "Using a spoon or small scoop, portion out 10 rounded cookie dough balls onto the parchment. Flatten the tops of the balls until you have evenly round, flat cookies.",
+                "Bake for 15 minutes or until the edges begin to brown.",
+                "Melt the chocolate by placing in a microwave safe bowl for 45 seconds. Stop it every 15-20 seconds to stir.",
+                "Drizzle each cookie with chocolate and sprinkle with extra sea salt."
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2018/10/dark-chocolate-sea-salt-pecan-cookies-featured.jpg",
+            "description": "Pecan sandies were my favorite cookies as a kid but ask I’ve gotten older I prefer a softer bake. That’s why these pecan softies are the perfect blend of nutty pecan flavor with the goodness of a soft baked cookie!"
+
+        },
+        {
+            "id": 37,
+            "category": "breakfast",
+            "title": "Keto Southern Shakshuka",
+            "prep_time": "30 minutes",
+            "servings": "6 servings/ 1 egg and sauce-serving",
+            "calories_per_serving": "291",
+            "fat": "19.14 g",
+            "carbs": "11.94 g",
+            "protein": "15.17 g",
+            "prep": [
+                "1/4 cup olive oil",
+                "3 cups chopped collard greens",
+                "1 medium yellow onion, diced",
+                "1 medium jalapeño pepper, minced",
+                "1/2 medium green bell pepper, diced",
+                "4 cloves garlic, minced",
+                "1 tablespoon paprika",
+                "1/2 teaspoon red pepper flakes",
+                "Salt and pepper, to taste",
+                "1 large (28-oz) can crushed tomatoes",
+                "6 large eggs",
+                "4 ounces goat cheese"    
+            ],
+            "execution": [
+                "Preheat your oven to 425F, and preheat an oven-safe skillet over medium-high heat.",
+                "Add the olive oil and once it's hot add in the collard greens, onion, jalapeno, green bell pepper, and garlic. Cook this down until soft then add in the paprika, red pepper flakes, salt, and pepper.",
+                "Stir in the crushed tomatoes then continue cooking until the sauce is nice and hot. Turn off the heat.",
+                "Use a spoon to create wells in the sauce, then crack an egg into each.",
+                "Place the skillet into the oven and bake for 5 minutes or so, until the egg whites are set.",
+                "Crumble the goat cheese over the top to serve."
+            ],
+            "img_src": "https://cdn.ruled.me/wp-content/uploads/2019/10/keto-southern-goat-cheese-shaksuka-featured.jpg",
+            "description": "This powerfully tasty spin on shakshuka oven poaches eggs in collard greens, tomatoes, and jalapeno. It’s topped off with creamy goat cheese and makes a great breakfast to kickstart your day. This one-pan southern shakshuka makes for quick preparation and even faster cleanup."
+
+        }
     ]
 }
