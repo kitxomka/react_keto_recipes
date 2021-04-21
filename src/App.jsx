@@ -5,7 +5,7 @@ import { Container, CssBaseline } from '@material-ui/core';
 
 import HomePage from './components/HomePage';
 
-const App2 = () => {
+const App = () => {
     return ( 
         <Router> 
             <CssBaseline /> 
@@ -16,4 +16,4 @@ const App2 = () => {
     )
 }
 
-export default App2
+export default App
