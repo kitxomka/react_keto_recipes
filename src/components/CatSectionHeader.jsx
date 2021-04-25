@@ -4,6 +4,13 @@ import Btn from './Btn';
 
 
 const CatSectionHeader = (props) => {
+    console.log("CatSectionHeader-props", props)
+    console.log("CatSectionHeader-title", props.title)
+    // const StObj = JSON.stringify({props});
+    // console.log('>>>>> StObj', StObj)
+    // const ParseObj = JSON.parse(StObj);
+    // console.log('>>>>> ParseObj', ParseObj)
+
     
     return (
         <>

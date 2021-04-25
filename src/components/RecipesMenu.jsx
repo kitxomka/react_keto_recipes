@@ -6,6 +6,7 @@ const RecipesMenu = (props) => {
 
     const htmlMenu = props.categories.map( category => (
         <RecipiesMenultem 
+            key={category.id} 
             title={category.title} 
             id={category.id} 
             image={category.image} 

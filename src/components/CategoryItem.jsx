@@ -8,7 +8,7 @@ const CategoryItem = (props) => {
     const recipeHtml = props.recipes.map(recipe => (
         <Grid container direction="column" alignItems="center" style={{border: '1px solid black' }} >
             <Grid item style={{textAlign: 'center' }}>
-                <img src={recipe.img_src} style={{width: '80%', borderBottom: '3px solid #f18b47'}} />
+                <img src={recipe.img_src} ail="" style={{width: '80%', borderBottom: '3px solid #f18b47'}} />
             </Grid>
             <Grid item style={{color: '#4a4a4a', textTransform: 'uppercase' }}>
                 <Typography variant="h6" style={{fontSize:'1.4rem',fontWeight: '600'}} >{recipe.title}</Typography>

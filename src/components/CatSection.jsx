@@ -3,14 +3,16 @@ import { Grid } from '@material-ui/core';
 import CatSectionHeader from './CatSectionHeader';
 import CatSectionItem from './CatSectionItem';
 
-import { Route, Switch } from 'react-router-dom';
+// import { Route, Switch } from 'react-router-dom';
 
 const CatSection = (props) => {
 
-    // console.log('catSection', props)
+    // console.log('catSection-props', props)
+    // console.log('catSection-props.category', props.category)
 
     const catSectionList = props.recipes.splice(0, props.numOfItems).map(recipe => (
         <CatSectionItem 
+            key={recipe.id}
             id={recipe.id} 
             category={recipe.category} 
             title={recipe.title} 
@@ -20,9 +22,9 @@ const CatSection = (props) => {
 
     return (
         <>
-            <Grid container direction="column" alignItems="center" style={{ marginTop: '5rem' }}>
+            <Grid container direction="column" alignItems="center" style={{ marginTop: '5rem' }} >
                 <Grid item style={{width: '100%'}} >
-                    <CatSectionHeader
+                    <CatSectionHeader 
                         title={props.category.title}
                         id={props.category.id}
                         image={props.category.image}
