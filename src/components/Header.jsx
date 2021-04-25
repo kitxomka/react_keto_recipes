@@ -1,4 +1,3 @@
-import React from 'react';
 import { Link } from 'react-router-dom';
 
 import { Grid, InputBase, Typography } from '@material-ui/core';
@@ -65,7 +64,7 @@ const Header = () => {
     return (
 
             <Grid container alignItems='center' justify="space-between" style={{ marginTop: '3rem' }} >
-                <Link to='/' style={{ textDecoration: 'none' }}>
+                <Link to='/' style={{ textDecoration: 'none' }} >
                     <Grid item style={{ textTransform: 'uppercase' }}>
                         <Typography variant="h5">keto recipes logo</Typography>
                     </Grid>

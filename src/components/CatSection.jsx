@@ -3,12 +3,11 @@ import { Grid } from '@material-ui/core';
 import CatSectionHeader from './CatSectionHeader';
 import CatSectionItem from './CatSectionItem';
 
-// import { Route, Switch } from 'react-router-dom';
 
 const CatSection = (props) => {
 
-    // console.log('catSection-props', props)
-    // console.log('catSection-props.category', props.category)
+
+    console.log('CatSection props: ', props);
 
     const catSectionList = props.recipes.splice(0, props.numOfItems).map(recipe => (
         <CatSectionItem 

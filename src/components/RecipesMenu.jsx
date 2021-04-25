@@ -2,9 +2,14 @@ import { Grid, Typography } from '@material-ui/core';
 
 import RecipiesMenultem from './RecipiesMenultem';
 
-const RecipesMenu = (props) => {
+import catData from '../db/categories.json';
 
-    const htmlMenu = props.categories.map( category => (
+const categories = catData.categories;
+
+
+const RecipesMenu = () => {
+
+    const htmlMenu = categories.map( category => (
         <RecipiesMenultem 
             key={category.id} 
             title={category.title} 
