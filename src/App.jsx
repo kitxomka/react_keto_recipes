@@ -13,16 +13,16 @@ const App = () => {
             <CssBaseline /> 
                 <Container maxWidth="lg">
                     <Switch>
-                    <Route exact path="/" >
-                        <HomePage/>
-                    </Route>
-                    <Route exact path="/category/:category">
-                        <CategoryPage />
-                    </Route>
-                    <Route exact path="/recipe/:id">
-                        <SingleRecipePage />
-                    </Route>
-                </Switch>
+                        <Route exact path="/" >
+                            <HomePage/>
+                        </Route>
+                        <Route exact path="/category/:category">
+                            <CategoryPage />
+                        </Route>
+                        <Route exact path="/recipe/:id">
+                            <SingleRecipePage />
+                        </Route>
+                    </Switch>
                 </Container> 
         </Router> 
     )

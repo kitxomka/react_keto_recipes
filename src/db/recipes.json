@@ -10,7 +10,7 @@
             "fat": "43.6 g",
             "carbs": "6 g",
             "protein": "36.1 g",
-            "preps": [
+            "prep": [
                 "2 tablespoon olive oil", 
                 "1/2 medium yellow onion", 
                 "8 ounce halloumi cheese, diced",
@@ -49,9 +49,7 @@
                 "3 tablespoon olive oil, for frying",
                 "1 teaspoon fresh garlic, minced",
                 "1 tablespoon chili paste",
-                "10 ounce shrimp, peeled"
-            ],
-            "sauce": [
+                "10 ounce shrimp, peeled",
                 "1/4 cup olive oil",
                 "1 tablespoon fresh ginger, minced",
                 "1/2 medium lime, juice",
@@ -101,9 +99,7 @@
                 "1/2 cup unsweetened cartoon coconut milk",
                 "20 ounce vegan meat crumbles",
                 "1 cup walnuts, crushed",
-                "1 tablespoon unsweetened cocoa powder"
-            ],
-            "sauce": [
+                "1 tablespoon unsweetened cocoa powder",
                 "4 tablespoon fresh cilantro",
                 "2 medium avocado, sliced",
                 "4 tablespoon red radish, sliced",
@@ -137,16 +133,14 @@
                  "1/4 teaspoon baking soda",
                  "1/4 teaspoon salt, to taste",
                  "1 teaspoon vanilla extract",
-                 "1/4 cup butter, diced"
-             ],
-             "sauce": [
+                 "1/4 cup butter, diced",
                 "10 ounce strawberries, frozen + no sugar added",
                 "1 tablespoon lemon juice",
                 "1/4 cup water",
                 "1 1/4 teaspoon unflavored gelatin",
                 "1/3 cup stevia/erythritol blend",
                 "1 cup heavy whipping cream"
-            ],
+             ],
             "execution": [
                 "Gather and prepare all ingredients. Defrost the strawberries.",
                 "Preheat the oven to 375F and grease a pie or tart pan with butter.",
@@ -304,10 +298,7 @@
                 "Salt and pepper to taste",
                 "6 ounce mixed greens",
                 "11 ounce cherry tomatoes, halved",
-                "11 ounce fresh mozzarella cheese"
-                  
-            ],
-            "sauce": [
+                "11 ounce fresh mozzarella cheese",
                 "1 ounce fresh parsley",
                 "1/2 ounce fresh cilantro",
                 "1/2 ounce fresh basil",
@@ -316,6 +307,7 @@
                 "2 tablespoon apple cider viinegar",
                 "1 tablespoon dijon mustard",
                 "Salt and pepper to taste"
+                  
             ],
             "execution": [
                 "Measure out and prepare all ingredients.",
@@ -454,15 +446,13 @@
                 "2 ounce butter",
                 "24 ounce green cabbage, head of",
                 "2 tablespoon olive oil",
-                "Salt and pepper to taste"    
-            ],
-            "sauce": [
+                "Salt and pepper to taste",
                 "1 1/2 cup heavy whipping cream",
                 "6 ounce cream cheese",
                 "2 tablespoon lemon juice",
                 "Salt and pepper to taste",
                 "1/4 teaspoon ground nutmeg",
-                "2 teaspoon lemon zest"
+                "2 teaspoon lemon zest"   
             ],
             "execution": [
                 "Measure out and prepare the ingredients. Preheat oven to 425F.",
@@ -535,10 +525,8 @@
                 "2 ounce cream cheese",
                 "4 ounce cheddar cheese, shredded",
                 "20 ounce flank steak",
-                "2 tablespoon olive oil, for frying"   
-            ],
-            "sauce": [
-                "1 cup heavy cream",
+                "2 tablespoon olive oil, for frying",
+                 "1 cup heavy cream",
                 "1 tablespoon soy sauce, or coconut aminos",
                 "1/2 teaspoon black pepper",
                 "2 tablespoon fresh parsley, to garnish"
@@ -683,15 +671,13 @@
                 "1.5 cups almond flour",
                 "1 teaspoon baking powder",
                 "1 pinch sea salt",
-                "1/4 cup espresso or strong coffee, room temperature"    
-            ],
-            "sauce": [
+                "1/4 cup espresso or strong coffee, room temperature",
                 "2 large egg yolks, room temperature",
                 "2 tbsp. cup stevia/erythritol blend, powdered",
                 "4 ounce cream cheese, softened",
                 "1 1/2 tablespoon sour cream",
                 "1/2 cup heavy cream, chilled",
-                "1/2 teaspoon cocoa powder, for dusting"
+                "1/2 teaspoon cocoa powder, for dusting"    
             ],
             "execution": [
                 "Gather all ingredients and prep them. Pre-heat oven to 350F. Line a square baking dish with parchment paper and set aside.",

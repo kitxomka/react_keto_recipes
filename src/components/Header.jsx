@@ -63,13 +63,13 @@ const Header = () => {
 
     return (
 
-            <Grid container alignItems='center' justify="space-between" style={{ marginTop: '3rem' }} >
-                <Link to='/' style={{ textDecoration: 'none' }} >
+            <Grid container alignItems='center' justify="space-between" style={{ marginTop: '3rem',  }} >
+                <Link to='/' style={{ textDecoration: 'none',  color: '#333333'}} >
                     <Grid item style={{ textTransform: 'uppercase' }}>
                         <Typography variant="h5">keto recipes logo</Typography>
                     </Grid>
                 </Link>
-                <Grid item style={{}}>
+                <Grid item >
                     <div className={classes.search}>
                         <div className={classes.searchIcon}>
                             <SearchIcon />

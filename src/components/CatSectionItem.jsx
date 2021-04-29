@@ -8,13 +8,13 @@ const CatSectionItem = (props) => {
     const item = props;
 
     return (
-        <Grid item xs={4} >
+        <Grid item xs={12} sm={4} >
             <Link to={{pathname: `/recipe/${item.id}`}} style={{ textDecoration: 'none'}} >
                 <Grid item>
                     <img src={item.image} alt={item.title} style={{ maxWidth: '100%' }} />
                 </Grid>
                 <Grid item>
-                    <Typography variant="subtitle2" style={{ color: '#858585', width: '80%' }}> {item.title} </Typography>
+                    <Typography variant="subtitle2" style={{ color: '#858585' }}> {item.title} </Typography>
                 </Grid>
             </Link> 
         </Grid>

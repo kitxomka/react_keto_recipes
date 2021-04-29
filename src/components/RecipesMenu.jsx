@@ -22,7 +22,7 @@ const RecipesMenu = () => {
     
     return (
         <>
-            <Grid container justify="center" alignItems="center" style={{ marginTop: '7rem' }} >
+            <Grid container justify="center" alignItems="center" style={{ marginTop: '5rem' }} >
                 <Grid item>
                     <Typography variant="h5" style={{ fontSize: '1.7rem' }}>What kind of recipes do you want to see?</Typography>
                 </Grid>
