@@ -1,4 +1,7 @@
 import React from 'react';
+import { useSelector, useDispatch } from 'react-redux';
+import { add } from '../reducers/newRecipeReducer';
+import { recipeSelector } from '../selectors';
 import { Grid, TextField, Button, Typography } from '@material-ui/core';
 import { FormControl, InputLabel, Select, MenuItem } from '@material-ui/core';
 
@@ -8,6 +11,9 @@ const categories = catData.categories;
 
 
 const Form = () => {
+
+    const count = useSelector(recipeSelector);
+    const dispatch = useDispatch();
 
     let catNameArr = []; 
 
@@ -109,7 +115,7 @@ const Form = () => {
                     variant="contained" 
                     color="primary" 
                     style={{ textTransform: 'uppercase', fontSize: '1rem', backgroundColor: '#dd955a'}}
-                    onClick={addRecipe}
+                    onClick={() => dispatch(add())}
                 >
                     ADD RECIPE
                 </Button>
