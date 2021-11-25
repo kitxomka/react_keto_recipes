@@ -2,8 +2,8 @@ import { useParams } from 'react-router';
 import {TinyButton as ScrollUpButton} from "react-scroll-up-button";
 
 import { Grid, Typography } from '@material-ui/core';
-import CategoryItem from './CatSectionItem';
-import Header from '../HomePage';
+import CategoryItem from './CategoryItem';
+import Header from '../Header';
 import RecipesMenu from '../Menu/RecipesMenu';
 import Footer from '../Footer';
 

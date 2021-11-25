@@ -16,7 +16,7 @@ const recipes = recData.recipes;
 const NUM_OF_ITEMS = 6;
 
 
-const HomePage = (props) => {
+const HomePage = () => {
     
     let catSectionArr = []; 
 
