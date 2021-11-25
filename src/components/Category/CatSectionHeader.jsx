@@ -1,6 +1,6 @@
 import { Grid, Typography } from '@material-ui/core';
 
-import Btn from './Btn';
+import Btn from '../Btn';
 
 
 const CatSectionHeader = (props) => {

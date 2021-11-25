@@ -2,7 +2,7 @@ import { Grid, Typography } from '@material-ui/core';
 
 import RecipiesMenultem from './RecipiesMenultem';
 
-import catData from '../db/categories.json';
+import catData from '../../db/categories.json';
 
 const categories = catData.categories;
 
@@ -18,7 +18,6 @@ const RecipesMenu = () => {
             category={category.category} 
         />  
     ))
-    
     
     return (
         <>

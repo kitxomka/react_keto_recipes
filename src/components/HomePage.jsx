@@ -1,13 +1,13 @@
 import {TinyButton as ScrollUpButton} from "react-scroll-up-button";
 
-import Header from "./Header";
-import RecipesMenu from "./RecipesMenu";
-import CatSection from "./CatSection";
-import Footer from "./Footer";
+import Header from './Header';
+import RecipesMenu from './Menu/RecipesMenu';
+import CatSection from './Category/CatSection';
+import Footer from './Footer';
+
 
 import catData from '../db/categories.json';
 import recData from '../db/recipes.json';
-
 
 
 const categories = catData.categories;
@@ -33,7 +33,7 @@ const HomePage = (props) => {
         <>
             <Header/>
             <RecipesMenu />
-            {catSectionArr}
+                {catSectionArr}
             <ScrollUpButton/>
             <Footer/>
         </>

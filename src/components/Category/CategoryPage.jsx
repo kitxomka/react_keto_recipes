@@ -2,17 +2,17 @@ import { useParams } from 'react-router';
 import {TinyButton as ScrollUpButton} from "react-scroll-up-button";
 
 import { Grid, Typography } from '@material-ui/core';
-import CategoryItem from './CategoryItem';
-import Header from './Header';
-import RecipesMenu from './RecipesMenu';
-import Footer from './Footer';
+import CategoryItem from './CatSectionItem';
+import Header from '../HomePage';
+import RecipesMenu from '../Menu/RecipesMenu';
+import Footer from '../Footer';
 
-import recData from '../db/recipes.json';
+import recData from '../../db/recipes.json';
 
 
 const recipes = recData.recipes;
 
-const CategoryPage = (props) => {
+const CategoryPage = () => {
 
     const {category} = useParams();
     

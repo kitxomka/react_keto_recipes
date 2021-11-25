@@ -1,11 +1,10 @@
-
 import { Grid } from '@material-ui/core';
+
 import CatSectionHeader from './CatSectionHeader';
 import CatSectionItem from './CatSectionItem';
 
 
 const CatSection = (props) => {
-
 
     const catSectionList = props.recipes.splice(0, props.numOfItems).map(recipe => (
         <CatSectionItem 
@@ -14,6 +13,8 @@ const CatSection = (props) => {
             category={recipe.category} 
             title={recipe.title} 
             image={recipe.img_src}
+            prep_time={recipe.prep_time}
+            servings={recipe.servings}
         />
     ))
 

@@ -4,11 +4,13 @@ import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 import { Container, CssBaseline } from '@material-ui/core';
 
 import HomePage from './components/HomePage';
-import CategoryPage from './components/CategoryPage';
-import SingleRecipePage from './components/SingleRecipePage';
-import AddNewRecipe from './components/AddNewRecipe';
+import CategoryPage from './components/Category/CategoryPage';
+import SingleRecipePage from './components/Recipe/SingleRecipePage';
+import AddNewRecipe from './components/Recipe/AddNewRecipe';
+
 
 const App = () => {
+
     return ( 
         <Router> 
             <CssBaseline /> 

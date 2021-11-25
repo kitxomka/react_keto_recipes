@@ -1,0 +1,12 @@
+/* Single recipe page styles */
+.recipeGContainer{
+    max-width: 60rem;
+    margin: 0 auto;
+    margin-top: 4rem;
+}
+
+.recipeItem{
+    text-transform: capitalize;
+    margin-bottom: 0.5rem !important;
+}
+

@@ -1,9 +1,11 @@
 import { Link } from 'react-router-dom';
 
-import { Grid, InputBase, Typography } from '@material-ui/core';
+import { Grid, InputBase, Typography,  } from '@material-ui/core';
 import SearchIcon from '@material-ui/icons/Search';
 
 import { fade, makeStyles } from '@material-ui/core/styles';
+
+import './Page.css';
 
 
 const useStyles = makeStyles((theme) => ({
@@ -62,36 +64,35 @@ const Header = () => {
     const classes = useStyles();
 
     return (
-            <Grid container alignItems='center' justify="space-between" style={{ marginTop: '3rem',  }} >
-                <Link to='/' style={{ textDecoration: 'none',  color: '#333333'}} >
-                    <Grid item style={{ textTransform: 'uppercase' }}>
-                        <Typography variant="h5">keto recipes logo</Typography>
-                    </Grid>
+        <Grid container spacing={2} alignItems='center' className='headerGContainer'>
+            <Grid item xs={1}>
+                <Link to='/' className='headerLink'>
+                    <Typography variant="subtitle1" mt={2} className='headerTypography'>Home</Typography>
                 </Link>
-                <Grid item>
-                    <Link to={{pathname: `/add-new-recipe`}} style={{textDecoration: 'none', color: '#333333', textTransform: 'uppercase'}}>
-                        add new recipe
-                    </Link>
-                </Grid>
-                    
-                <Grid item >
-                    <div className={classes.search}>
-                        <div className={classes.searchIcon}>
-                            <SearchIcon />
-                        </div>
-                        <InputBase
-                            placeholder="Search…"
-                            classes={{
-                                root: classes.inputRoot,
-                                input: classes.inputInput,
-                            }}
-                            inputProps={{ 'aria-label': 'search' }}
-                        />
+            </Grid>    
+            <Grid item xs={8}>
+                <Link to={{ pathname: `/add-new-recipe` }} className='headerLink'>
+                    <Typography variant="subtitle1" className='headerTypography'>Add new recipe</Typography>
+                </Link>
+            </Grid>   
+            <Grid item>
+                <div className={classes.search}>
+                    <div className={classes.searchIcon}>
+                        <SearchIcon />
                     </div>
-                </Grid>
-
+                    <InputBase
+                        placeholder="Search…"
+                        classes={{
+                            root: classes.inputRoot,
+                            input: classes.inputInput,
+                        }}
+                        inputProps={{ 'aria-label': 'search' }}
+                    />
+                </div>
             </Grid>
-            
+
+        </Grid>
+
     )
 }
 

@@ -1,1 +1,0 @@
-export const recipeSelector = (state) => state.newRecipe?.title;

@@ -5,11 +5,13 @@ import { Grid, Typography } from '@material-ui/core';
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
 
-import Header from './Header';
-import RecipesMenu from './RecipesMenu';
-import Footer from './Footer';
+import Header from '../Header';
+import RecipesMenu from '../Menu/RecipesMenu';
+import Footer from '../Footer';
 
-import recData from '../db/recipes.json';
+import recData from '../../db/recipes.json';
+
+import './Recipe.css';
 
 const recipes = recData.recipes;
 
@@ -20,8 +22,8 @@ const SingleRecipePage = () => {
 
     const singleRecipeHtml = recipes.filter(recipe => recipe.id === numId).map(recipe => (
         <>
-        <Grid container direction="column" alignItems="center" justify="center" key={recipe.id + '-recipe-id'} style={{maxWidth: '60rem', margin: 'auto', marginTop: '4rem' }}>
-            <Grid item xs={6} style={{textTransform: 'capitalize', marginBottom: '0.5rem', color:'#333', fontWeight: '600'}}>
+        <Grid container direction="column" alignItems="center" justify="center" key={recipe.id + '-recipe-id'} className='recipeGContainer'>
+            <Grid item xs={6} className='recipeItem' style={{color: '#333', fontWeight: '600'}}>
                  <Typography variant="h4">{recipe.title}</Typography>
             </Grid>
             <Grid item xs={12} style={{marginBottom: '3rem',textTransform: 'uppercase' }}>
@@ -57,8 +59,7 @@ const SingleRecipePage = () => {
                         This makes a total of {recipe.servings} of {recipe.title}. Each serving comes out to be {recipe.calories_per_serving} calories,<br/>
                         {recipe.fat} fat, {recipe.protein} protein and {recipe.carbs} net carbs.
                     </Typography>
-            </Grid>
-            
+            </Grid>  
         </Grid>
         </>
     ))
@@ -67,7 +68,7 @@ const SingleRecipePage = () => {
         <>
             <Header/>
             <RecipesMenu />
-            {singleRecipeHtml}
+                {singleRecipeHtml}
             <ScrollUpButton/>
             <Footer/>
         </>
